@@ -40,7 +40,7 @@ CodePen.io - это онлайн-платформа, которая позвол
 
 <img src="img/e-mail.png" width="500">
   
-или аккаунт гитхаба:
+или аккаунт на GitHub:
   
 <img src="img/GitHub.png" width="500">
 
